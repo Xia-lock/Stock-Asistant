@@ -1,2 +1,2 @@
 # Stock-Assistant
-The little smart stock asistant for beginner
+The little smart stock assistant for beginner
